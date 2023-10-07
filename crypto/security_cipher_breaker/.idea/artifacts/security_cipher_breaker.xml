@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="security_cipher_breaker">
+    <output-path>$PROJECT_DIR$/out/artifacts/security_cipher_breaker</output-path>
+    <root id="archive" name="security_cipher_breaker.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="security_cipher_breaker" />
+    </root>
+  </artifact>
+</component>
